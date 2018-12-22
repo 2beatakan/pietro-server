@@ -1,10 +1,10 @@
 {
   "dbURL": {
-    "user": "idrlbkcdgjjlgp",
-    "password": "Dw6omuc0XqsSuLnBRnwzeP5Mk6",
-    "database": "dj5fhk1mm94bo",
+    "user": "pietro-server",
+    "password": "123q123q",
+    "database": "pietro-server",
     "port": 5432,
-    "host": "ec2-184-73-165-195.compute-1.amazonaws.com",
+    "host": "pietro-server.database.windows.net",
     "ssl": true
   },
   "HTTPServerPort": 5001
